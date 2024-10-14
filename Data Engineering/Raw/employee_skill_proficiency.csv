@@ -1,0 +1,551 @@
+empid,skillid,proficiency
+1,1,5  -- Data Analysis
+1,2,4  -- Machine Learning
+1,3,3  -- Statistical Analysis
+1,4,5  -- Data Visualization
+1,5,4  -- Deep Learning
+
+2,1,4  -- Data Analysis
+2,2,5  -- Machine Learning
+2,3,4  -- Statistical Analysis
+2,4,3  -- Data Visualization
+2,11,5 -- Data Mining
+
+3,1,3  -- Data Analysis
+3,2,3  -- Machine Learning
+3,12,4 -- Predictive Analytics
+3,4,5  -- Data Visualization
+3,13,4 -- Natural Language Processing
+
+4,1,5  -- Data Analysis
+4,2,4  -- Machine Learning
+4,3,5  -- Statistical Analysis
+4,5,3  -- Deep Learning
+4,14,4 -- Data Wrangling
+
+5,1,4  -- Data Analysis
+5,2,4  -- Machine Learning
+5,11,5 -- Data Mining
+5,4,5  -- Data Visualization
+5,10,3 -- Time Series Analysis
+
+6,1,5  -- Data Analysis
+6,2,5  -- Machine Learning
+6,12,4 -- Predictive Analytics
+6,5,3  -- Deep Learning
+6,14,5 -- Data Wrangling
+
+7,1,4  -- Data Analysis
+7,2,3  -- Machine Learning
+7,4,5  -- Data Visualization
+7,13,4 -- Natural Language Processing
+7,10,3 -- Time Series Analysis
+
+8,1,3  -- Data Analysis
+8,2,4  -- Machine Learning
+8,4,3  -- Data Visualization
+8,9,5  -- Data Ethics and Privacy
+8,11,4 -- Data Mining
+
+9,1,4  -- Data Analysis
+9,2,5  -- Machine Learning
+9,3,4  -- Statistical Analysis
+9,4,5  -- Data Visualization
+9,10,3 -- Time Series Analysis
+
+10,1,5  -- Data Analysis
+10,2,4  -- Machine Learning
+10,3,5  -- Statistical Analysis
+10,5,4  -- Deep Learning
+10,9,3  -- Data Ethics and Privacy
+
+11,1,4  -- Data Analysis
+11,2,4  -- Machine Learning
+11,12,5 -- Predictive Analytics
+11,4,5  -- Data Visualization
+11,8,3  -- Introduction to Big Data
+
+12,1,5  -- Data Analysis
+12,2,5  -- Machine Learning
+12,3,4  -- Statistical Analysis
+12,14,3 -- Data Wrangling
+12,10,4 -- Time Series Analysis
+
+13,1,4  -- Data Analysis
+13,2,4  -- Machine Learning
+13,11,5 -- Data Mining
+13,4,4  -- Data Visualization
+13,5,3  -- Deep Learning
+
+14,1,3  -- Data Analysis
+14,2,4  -- Machine Learning
+14,3,5  -- Statistical Analysis
+14,5,4  -- Deep Learning
+14,8,4  -- Introduction to Big Data
+
+15,1,4  -- Data Analysis
+15,2,5  -- Machine Learning
+15,12,4 -- Predictive Analytics
+15,4,5  -- Data Visualization
+15,9,3  -- Data Ethics and Privacy
+
+16,1,5  -- Data Analysis
+16,2,4  -- Machine Learning
+16,10,4 -- Time Series Analysis
+16,5,3  -- Deep Learning
+16,3,5  -- Statistical Analysis
+
+17,1,4  -- Data Analysis
+17,2,5  -- Machine Learning
+17,4,3  -- Data Visualization
+17,11,4 -- Data Mining
+17,14,5 -- Data Wrangling
+
+18,1,3  -- Data Analysis
+18,2,4  -- Machine Learning
+18,5,5  -- Deep Learning
+18,4,4  -- Data Visualization
+18,12,3 -- Predictive Analytics
+
+19,1,4  -- Data Analysis
+19,2,3  -- Machine Learning
+19,3,4  -- Statistical Analysis
+19,4,5  -- Data Visualization
+19,10,4 -- Time Series Analysis
+
+20,1,5  -- Data Analysis
+20,2,4  -- Machine Learning
+20,3,3  -- Statistical Analysis
+20,4,4  -- Data Visualization
+20,14,5 -- Data Wrangling
+
+21,1,2  -- Data Analysis
+21,2,2  -- Machine Learning
+21,3,1  -- Statistical Analysis
+21,4,3  -- Data Visualization
+21,5,1  -- Deep Learning
+
+22,1,3  -- Data Analysis
+22,2,2  -- Machine Learning
+22,4,2  -- Data Visualization
+22,8,1  -- Introduction to Big Data
+
+23,1,2  -- Data Analysis
+23,2,1  -- Machine Learning
+23,9,3  -- Data Ethics and Privacy
+23,10,2 -- Time Series Analysis
+
+24,1,1  -- Data Analysis
+24,2,2  -- Machine Learning
+24,3,1  -- Statistical Analysis
+24,4,3  -- Data Visualization
+
+25,1,2  -- Data Analysis
+25,4,2  -- Data Visualization
+25,5,1  -- Deep Learning
+25,8,3  -- Introduction to Big Data
+
+26,1,1  -- Data Analysis
+26,2,1  -- Machine Learning
+26,3,2  -- Statistical Analysis
+26,12,3 -- Predictive Analytics
+
+27,1,3  -- Data Analysis
+27,4,1  -- Data Visualization
+27,8,2  -- Introduction to Big Data
+
+28,1,2  -- Data Analysis
+28,2,1  -- Machine Learning
+28,5,2  -- Deep Learning
+28,9,1  -- Data Ethics and Privacy
+
+29,1,2  -- Data Analysis
+29,3,2  -- Statistical Analysis
+29,4,1  -- Data Visualization
+
+30,1,3  -- Data Analysis
+30,2,2  -- Machine Learning
+30,4,1  -- Data Visualization
+30,10,2 -- Time Series Analysis
+
+31,1,2  -- Data Analysis
+31,3,1  -- Statistical Analysis
+31,4,2  -- Data Visualization
+31,8,3  -- Introduction to Big Data
+
+32,1,1  -- Data Analysis
+32,2,2  -- Machine Learning
+32,5,2  -- Deep Learning
+
+33,1,3  -- Data Analysis
+33,2,1  -- Machine Learning
+33,4,1  -- Data Visualization
+
+34,1,2  -- Data Analysis
+34,2,2  -- Machine Learning
+34,10,1 -- Time Series Analysis
+
+35,1,1  -- Data Analysis
+35,3,1  -- Statistical Analysis
+35,4,2  -- Data Visualization
+
+36,1,3  -- Data Analysis
+36,2,1  -- Machine Learning
+36,12,2 -- Predictive Analytics
+
+37,1,1  -- Data Analysis
+37,4,1  -- Data Visualization
+37,8,2  -- Introduction to Big Data
+
+38,1,2  -- Data Analysis
+38,2,3  -- Machine Learning
+38,3,1  -- Statistical Analysis
+
+39,1,1  -- Data Analysis
+39,4,2  -- Data Visualization
+39,10,2 -- Time Series Analysis
+
+40,1,2  -- Data Analysis
+40,2,2  -- Machine Learning
+40,4,1  -- Data Visualization
+
+41,1,3  -- Data Analysis
+41,2,1  -- Machine Learning
+41,4,2  -- Data Visualization
+
+42,1,2  -- Data Analysis
+42,3,1  -- Statistical Analysis
+42,4,3  -- Data Visualization
+
+43,1,1  -- Data Analysis
+43,4,2  -- Data Visualization
+
+44,1,2  -- Data Analysis
+44,2,2  -- Machine Learning
+
+45,1,1  -- Data Analysis
+45,4,1  -- Data Visualization
+
+46,1,2  -- Data Analysis
+46,2,2  -- Machine Learning
+46,3,2  -- Statistical Analysis
+
+47,1,3  -- Data Analysis
+47,3,1  -- Statistical Analysis
+
+48,1,2  -- Data Analysis
+48,4,2  -- Data Visualization
+
+49,1,1  -- Data Analysis
+49,4,1  -- Data Visualization
+
+50,1,2  -- Data Analysis
+50,2,1  -- Machine Learning
+
+21,16,4  -- Cloud Computing
+21,17,3  -- DevOps Practices
+21,18,5  -- Infrastructure as Code
+21,19,2  -- Network Security
+21,20,3  -- Containerization
+
+22,16,5  -- Cloud Computing
+22,17,4  -- DevOps Practices
+22,18,3  -- Infrastructure as Code
+22,20,5  -- Containerization
+
+23,16,3  -- Cloud Computing
+23,17,5  -- DevOps Practices
+23,18,2  -- Infrastructure as Code
+23,19,4  -- Network Security
+
+24,16,2  -- Cloud Computing
+24,18,4  -- Infrastructure as Code
+24,19,3  -- Network Security
+
+25,16,4  -- Cloud Computing
+25,17,3  -- DevOps Practices
+25,20,2  -- Containerization
+
+26,16,5  -- Cloud Computing
+26,17,4  -- DevOps Practices
+26,19,3  -- Network Security
+
+27,16,3  -- Cloud Computing
+27,17,2  -- DevOps Practices
+27,20,5  -- Containerization
+
+28,16,2  -- Cloud Computing
+28,18,4  -- Infrastructure as Code
+28,19,3  -- Network Security
+
+29,16,3  -- Cloud Computing
+29,17,3  -- DevOps Practices
+29,18,2  -- Infrastructure as Code
+
+30,16,4  -- Cloud Computing
+30,19,4  -- Network Security
+30,20,5  -- Containerization
+
+31,16,3  -- Cloud Computing
+31,18,1  -- Infrastructure as Code
+31,20,4  -- Containerization
+
+32,16,5  -- Cloud Computing
+32,17,3  -- DevOps Practices
+32,19,4  -- Network Security
+
+33,16,4  -- Cloud Computing
+33,17,2  -- DevOps Practices
+33,20,3  -- Containerization
+
+34,16,2  -- Cloud Computing
+34,18,3  -- Infrastructure as Code
+34,20,5  -- Containerization
+
+35,16,3  -- Cloud Computing
+35,17,4  -- DevOps Practices
+35,19,3  -- Network Security
+36,16,2  -- Cloud Computing
+36,17,1  -- DevOps Practices
+36,18,1  -- Infrastructure as Code
+36,19,3  -- Network Security
+
+37,16,1  -- Cloud Computing
+37,18,2  -- Infrastructure as Code
+37,20,1  -- Containerization
+
+38,16,2  -- Cloud Computing
+38,17,2  -- DevOps Practices
+38,19,1  -- Network Security
+
+39,16,3  -- Cloud Computing
+39,17,2  -- DevOps Practices
+39,20,2  -- Containerization
+
+40,16,1  -- Cloud Computing
+40,18,1  -- Infrastructure as Code
+40,19,1  -- Network Security
+
+41,16,2  -- Cloud Computing
+41,17,1  -- DevOps Practices
+empid,skillid,proficiency
+1,16,4  -- Cloud Computing
+1,17,5  -- DevOps Practices
+1,18,3  -- Infrastructure as Code
+1,19,4  -- Network Security
+1,20,3  -- Containerization
+
+2,16,5  -- Cloud Computing
+2,17,4  -- DevOps Practices
+2,18,3  -- Infrastructure as Code
+2,19,2  -- Network Security
+
+3,16,3  -- Cloud Computing
+3,17,2  -- DevOps Practices
+3,18,4  -- Infrastructure as Code
+
+4,16,2  -- Cloud Computing
+4,18,3  -- Infrastructure as Code
+4,19,2  -- Network Security
+
+5,16,4  -- Cloud Computing
+5,17,3  -- DevOps Practices
+5,20,5  -- Containerization
+
+6,16,3  -- Cloud Computing
+6,17,4  -- DevOps Practices
+6,19,1  -- Network Security
+
+7,16,2  -- Cloud Computing
+7,18,1  -- Infrastructure as Code
+
+8,16,3  -- Cloud Computing
+8,17,1  -- DevOps Practices
+8,20,2  -- Containerization
+
+9,16,2  -- Cloud Computing
+9,18,2  -- Infrastructure as Code
+
+10,16,4  -- Cloud Computing
+10,17,3  -- DevOps Practices
+10,19,1  -- Network Security
+
+11,16,1  -- Cloud Computing
+11,18,2  -- Infrastructure as Code
+11,20,1  -- Containerization
+
+12,16,3  -- Cloud Computing
+12,19,2  -- Network Security
+
+13,16,2  -- Cloud Computing
+13,17,1  -- DevOps Practices
+
+14,16,1  -- Cloud Computing
+14,19,1  -- Network Security
+
+15,16,2  -- Cloud Computing
+15,17,2  -- DevOps Practices
+15,20,3  -- Containerization
+36,31,4  -- HTML/CSS
+36,32,5  -- JavaScript
+36,33,4  -- Node.js
+36,34,3  -- React
+36,35,4  -- RESTful APIs
+
+37,31,5  -- HTML/CSS
+37,32,4  -- JavaScript
+37,33,4  -- Node.js
+37,34,2  -- React
+37,35,5  -- RESTful APIs
+
+38,31,3  -- HTML/CSS
+38,32,2  -- JavaScript
+38,34,4  -- React
+38,35,3  -- RESTful APIs
+
+39,31,4  -- HTML/CSS
+39,32,3  -- JavaScript
+39,33,2  -- Node.js
+39,34,3  -- React
+
+40,31,2  -- HTML/CSS
+40,32,2  -- JavaScript
+40,33,4  -- Node.js
+40,34,5  -- React
+40,35,3  -- RESTful APIs
+
+41,31,4  -- HTML/CSS
+41,32,5  -- JavaScript
+41,33,3  -- Node.js
+41,34,4  -- React
+41,35,2  -- RESTful APIs
+
+42,31,3  -- HTML/CSS
+42,32,4  -- JavaScript
+42,33,5  -- Node.js
+42,34,2  -- React
+
+43,31,4  -- HTML/CSS
+43,32,3  -- JavaScript
+43,33,2  -- Node.js
+43,34,3  -- React
+43,35,1  -- RESTful APIs
+
+44,31,5  -- HTML/CSS
+44,32,4  -- JavaScript
+44,33,3  -- Node.js
+44,34,2  -- React
+
+45,31,4  -- HTML/CSS
+45,32,3  -- JavaScript
+45,33,4  -- Node.js
+45,34,1  -- React
+45,35,3  -- RESTful APIs
+
+46,31,2  -- HTML/CSS
+46,32,1  -- JavaScript
+46,33,2  -- Node.js
+46,34,3  -- React
+
+47,31,3  -- HTML/CSS
+47,32,4  -- JavaScript
+47,33,5  -- Node.js
+47,34,4  -- React
+
+48,31,4  -- HTML/CSS
+48,32,3  -- JavaScript
+48,33,2  -- Node.js
+48,34,3  -- React
+
+49,31,5  -- HTML/CSS
+49,32,4  -- JavaScript
+49,33,3  -- Node.js
+
+50,31,4  -- HTML/CSS
+50,32,5  -- JavaScript
+50,34,2  -- React
+
+
+42,16,3  -- Cloud Computing
+42,18,2  -- Infrastructure as Code
+
+43,16,1  -- Cloud Computing
+43,20,1  -- Containerization
+
+44,16,2  -- Cloud Computing
+44,17,1  -- DevOps Practices
+
+45,16,2  -- Cloud Computing
+45,19,2  -- Network Security
+
+46,16,1  -- Cloud Computing
+46,17,2  -- DevOps Practices
+46,20,1  -- Containerization
+
+47,16,2  -- Cloud Computing
+47,18,1  -- Infrastructure as Code
+
+48,16,1  -- Cloud Computing
+48,19,2  -- Network Security
+
+49,16,2  -- Cloud Computing
+49,18,1  -- Infrastructure as Code
+
+50,16,1  -- Cloud Computing
+50,17,1  -- DevOps Practices
+1,31,2  -- HTML/CSS
+1,32,1  -- JavaScript
+1,33,2  -- Node.js
+
+2,31,3  -- HTML/CSS
+2,32,2  -- JavaScript
+2,34,1  -- React
+
+3,31,4  -- HTML/CSS
+3,32,3  -- JavaScript
+3,33,1  -- Node.js
+
+4,31,1  -- HTML/CSS
+4,32,1  -- JavaScript
+4,33,2  -- Node.js
+4,34,1  -- React
+
+5,31,2  -- HTML/CSS
+5,32,2  -- JavaScript
+
+6,31,1  -- HTML/CSS
+6,32,2  -- JavaScript
+6,34,1  -- React
+
+7,31,2  -- HTML/CSS
+7,33,1  -- Node.js
+
+8,31,1  -- HTML/CSS
+8,32,1  -- JavaScript
+8,34,2  -- React
+
+9,31,3  -- HTML/CSS
+9,32,2  -- JavaScript
+9,33,2  -- Node.js
+
+10,31,1  -- HTML/CSS
+10,32,2  -- JavaScript
+10,33,1  -- Node.js
+
+11,31,2  -- HTML/CSS
+11,34,1  -- React
+
+12,31,1  -- HTML/CSS
+12,32,1  -- JavaScript
+12,33,2  -- Node.js
+
+13,31,2  -- HTML/CSS
+13,32,3  -- JavaScript
+
+14,31,1  -- HTML/CSS
+14,32,2  -- JavaScript
+14,33,1  -- Node.js
+
+15,31,2  -- HTML/CSS
+15,33,2  -- Node.js
+

@@ -1,0 +1,428 @@
+empname,skillname,proficiency
+Alice Johnson,Data Analysis,5
+Alice Johnson,Machine Learning,4
+Alice Johnson,Statistical Analysis,3
+Alice Johnson,Data Visualization,5
+Alice Johnson,Deep Learning,4
+Alice Johnson,Cloud Computing,4
+Alice Johnson,DevOps Practices,5
+Alice Johnson,Infrastructure as Code,3
+Alice Johnson,Network Security,4
+Alice Johnson,Containerization,3
+Alice Johnson,HTML & CSS,2
+Alice Johnson,JavaScript,1
+Alice Johnson,React.js,2
+Bob Smith,Data Analysis,4
+Bob Smith,Machine Learning,5
+Bob Smith,Statistical Analysis,4
+Bob Smith,Data Visualization,3
+Bob Smith,Data Mining,5
+Bob Smith,Cloud Computing,5
+Bob Smith,DevOps Practices,4
+Bob Smith,Infrastructure as Code,3
+Bob Smith,Network Security,2
+Bob Smith,HTML & CSS,3
+Bob Smith,JavaScript,2
+Bob Smith,Node.js,1
+Charlie Brown,Data Analysis,3
+Charlie Brown,Machine Learning,3
+Charlie Brown,Predictive Analytics,4
+Charlie Brown,Data Visualization,5
+Charlie Brown,Natural Language Processing,4
+Charlie Brown,Cloud Computing,3
+Charlie Brown,DevOps Practices,2
+Charlie Brown,Infrastructure as Code,4
+Charlie Brown,HTML & CSS,4
+Charlie Brown,JavaScript,3
+Charlie Brown,React.js,1
+Diana Prince,Data Analysis,5
+Diana Prince,Machine Learning,4
+Diana Prince,Statistical Analysis,5
+Diana Prince,Deep Learning,3
+Diana Prince,Data Wrangling,4
+Diana Prince,Cloud Computing,2
+Diana Prince,Infrastructure as Code,3
+Diana Prince,Network Security,2
+Diana Prince,HTML & CSS,1
+Diana Prince,JavaScript,1
+Diana Prince,React.js,2
+Diana Prince,Node.js,1
+Evelyn Harper,Data Analysis,4
+Evelyn Harper,Machine Learning,4
+Evelyn Harper,Data Mining,5
+Evelyn Harper,Data Visualization,5
+Evelyn Harper,Time Series Analysis,3
+Evelyn Harper,Cloud Computing,4
+Evelyn Harper,DevOps Practices,3
+Evelyn Harper,Containerization,5
+Evelyn Harper,HTML & CSS,2
+Evelyn Harper,JavaScript,2
+George Taylor,Data Analysis,5
+George Taylor,Machine Learning,5
+George Taylor,Predictive Analytics,4
+George Taylor,Deep Learning,3
+George Taylor,Data Wrangling,5
+George Taylor,Cloud Computing,3
+George Taylor,DevOps Practices,4
+George Taylor,Network Security,1
+George Taylor,HTML & CSS,1
+George Taylor,JavaScript,2
+George Taylor,Node.js,1
+Emily Clark,Data Analysis,4
+Emily Clark,Machine Learning,3
+Emily Clark,Data Visualization,5
+Emily Clark,Natural Language Processing,4
+Emily Clark,Time Series Analysis,3
+Emily Clark,Cloud Computing,2
+Emily Clark,Infrastructure as Code,1
+Emily Clark,HTML & CSS,2
+Emily Clark,React.js,1
+Frank Miller,Data Analysis,3
+Frank Miller,Machine Learning,4
+Frank Miller,Data Visualization,3
+Frank Miller,Data Ethics and Privacy,5
+Frank Miller,Data Mining,4
+Frank Miller,Cloud Computing,3
+Frank Miller,DevOps Practices,1
+Frank Miller,Containerization,2
+Frank Miller,HTML & CSS,1
+Frank Miller,JavaScript,1
+Frank Miller,Node.js,2
+Grace Lee,Data Analysis,4
+Grace Lee,Machine Learning,5
+Grace Lee,Statistical Analysis,4
+Grace Lee,Data Visualization,5
+Grace Lee,Time Series Analysis,3
+Grace Lee,Cloud Computing,2
+Grace Lee,Infrastructure as Code,2
+Grace Lee,HTML & CSS,3
+Grace Lee,JavaScript,2
+Grace Lee,React.js,2
+Henry Adams,Data Analysis,5
+Henry Adams,Machine Learning,4
+Henry Adams,Statistical Analysis,5
+Henry Adams,Deep Learning,4
+Henry Adams,Data Ethics and Privacy,3
+Henry Adams,Cloud Computing,4
+Henry Adams,DevOps Practices,3
+Henry Adams,Network Security,1
+Henry Adams,HTML & CSS,1
+Henry Adams,JavaScript,2
+Henry Adams,React.js,1
+Irene Robinson,Data Analysis,4
+Irene Robinson,Machine Learning,4
+Irene Robinson,Predictive Analytics,5
+Irene Robinson,Data Visualization,5
+Irene Robinson,Introduction to Big Data,3
+Irene Robinson,Cloud Computing,1
+Irene Robinson,Infrastructure as Code,2
+Irene Robinson,Containerization,1
+Irene Robinson,HTML & CSS,2
+Irene Robinson,Node.js,1
+Jack Wilson,Data Analysis,5
+Jack Wilson,Machine Learning,5
+Jack Wilson,Statistical Analysis,4
+Jack Wilson,Data Wrangling,3
+Jack Wilson,Time Series Analysis,4
+Jack Wilson,Cloud Computing,3
+Jack Wilson,Network Security,2
+Jack Wilson,HTML & CSS,1
+Jack Wilson,JavaScript,1
+Jack Wilson,React.js,2
+Kate Brown,Data Analysis,4
+Kate Brown,Machine Learning,4
+Kate Brown,Data Mining,5
+Kate Brown,Data Visualization,4
+Kate Brown,Deep Learning,3
+Kate Brown,Cloud Computing,2
+Kate Brown,DevOps Practices,1
+Kate Brown,HTML & CSS,2
+Kate Brown,JavaScript,3
+Liam Johnson,Data Analysis,3
+Liam Johnson,Machine Learning,4
+Liam Johnson,Statistical Analysis,5
+Liam Johnson,Deep Learning,4
+Liam Johnson,Introduction to Big Data,4
+Liam Johnson,Cloud Computing,1
+Liam Johnson,Network Security,1
+Liam Johnson,HTML & CSS,1
+Liam Johnson,JavaScript,2
+Liam Johnson,React.js,1
+Mia White,Data Analysis,4
+Mia White,Machine Learning,5
+Mia White,Predictive Analytics,4
+Mia White,Data Visualization,5
+Mia White,Data Ethics and Privacy,3
+Mia White,Cloud Computing,2
+Mia White,DevOps Practices,2
+Mia White,Containerization,3
+Mia White,HTML & CSS,2
+Mia White,React.js,2
+Nate Green,Data Analysis,5
+Nate Green,Machine Learning,4
+Nate Green,Time Series Analysis,4
+Nate Green,Deep Learning,3
+Nate Green,Statistical Analysis,5
+Olivia Brown,Data Analysis,4
+Olivia Brown,Machine Learning,5
+Olivia Brown,Data Visualization,3
+Olivia Brown,Data Mining,4
+Olivia Brown,Data Wrangling,5
+Paul Smith,Data Analysis,3
+Paul Smith,Machine Learning,4
+Paul Smith,Deep Learning,5
+Paul Smith,Data Visualization,4
+Paul Smith,Predictive Analytics,3
+Quinn Davis,Data Analysis,4
+Quinn Davis,Machine Learning,3
+Quinn Davis,Statistical Analysis,4
+Quinn Davis,Data Visualization,5
+Quinn Davis,Time Series Analysis,4
+Ryan Evans,Data Analysis,5
+Ryan Evans,Machine Learning,4
+Ryan Evans,Statistical Analysis,3
+Ryan Evans,Data Visualization,4
+Ryan Evans,Data Wrangling,5
+Sarah Thompson,Data Analysis,2
+Sarah Thompson,Machine Learning,2
+Sarah Thompson,Statistical Analysis,1
+Sarah Thompson,Data Visualization,3
+Sarah Thompson,Deep Learning,1
+Sarah Thompson,Cloud Computing,4
+Sarah Thompson,DevOps Practices,3
+Sarah Thompson,Infrastructure as Code,5
+Sarah Thompson,Network Security,2
+Sarah Thompson,Containerization,3
+Tony Martinez,Data Analysis,3
+Tony Martinez,Machine Learning,2
+Tony Martinez,Data Visualization,2
+Tony Martinez,Introduction to Big Data,1
+Tony Martinez,Cloud Computing,5
+Tony Martinez,DevOps Practices,4
+Tony Martinez,Infrastructure as Code,3
+Tony Martinez,Containerization,5
+Uma Patel,Data Analysis,2
+Uma Patel,Machine Learning,1
+Uma Patel,Data Ethics and Privacy,3
+Uma Patel,Time Series Analysis,2
+Uma Patel,Cloud Computing,3
+Uma Patel,DevOps Practices,5
+Uma Patel,Infrastructure as Code,2
+Uma Patel,Network Security,4
+Vera Lee,Data Analysis,1
+Vera Lee,Machine Learning,2
+Vera Lee,Statistical Analysis,1
+Vera Lee,Data Visualization,3
+Vera Lee,Cloud Computing,2
+Vera Lee,Infrastructure as Code,4
+Vera Lee,Network Security,3
+Wade Clark,Data Analysis,2
+Wade Clark,Data Visualization,2
+Wade Clark,Deep Learning,1
+Wade Clark,Introduction to Big Data,3
+Wade Clark,Cloud Computing,4
+Wade Clark,DevOps Practices,3
+Wade Clark,Containerization,2
+Xena Bell,Data Analysis,1
+Xena Bell,Machine Learning,1
+Xena Bell,Statistical Analysis,2
+Xena Bell,Predictive Analytics,3
+Xena Bell,Cloud Computing,5
+Xena Bell,DevOps Practices,4
+Xena Bell,Network Security,3
+Yara King,Data Analysis,3
+Yara King,Data Visualization,1
+Yara King,Introduction to Big Data,2
+Yara King,Cloud Computing,3
+Yara King,DevOps Practices,2
+Yara King,Containerization,5
+Zachary Lee,Data Analysis,2
+Zachary Lee,Machine Learning,1
+Zachary Lee,Deep Learning,2
+Zachary Lee,Data Ethics and Privacy,1
+Zachary Lee,Cloud Computing,2
+Zachary Lee,Infrastructure as Code,4
+Zachary Lee,Network Security,3
+Alice Wong,Data Analysis,2
+Alice Wong,Statistical Analysis,2
+Alice Wong,Data Visualization,1
+Alice Wong,Cloud Computing,3
+Alice Wong,DevOps Practices,3
+Alice Wong,Infrastructure as Code,2
+Brandon Scott,Data Analysis,3
+Brandon Scott,Machine Learning,2
+Brandon Scott,Data Visualization,1
+Brandon Scott,Time Series Analysis,2
+Brandon Scott,Cloud Computing,4
+Brandon Scott,Network Security,4
+Brandon Scott,Containerization,5
+Emma Johnson,Data Analysis,2
+Emma Johnson,Statistical Analysis,1
+Emma Johnson,Data Visualization,2
+Emma Johnson,Introduction to Big Data,3
+Emma Johnson,Cloud Computing,3
+Emma Johnson,Infrastructure as Code,1
+Emma Johnson,Containerization,4
+Lucas Brown,Data Analysis,1
+Lucas Brown,Machine Learning,2
+Lucas Brown,Deep Learning,2
+Lucas Brown,Cloud Computing,5
+Lucas Brown,DevOps Practices,3
+Lucas Brown,Network Security,4
+Noah Smith,Data Analysis,3
+Noah Smith,Machine Learning,1
+Noah Smith,Data Visualization,1
+Noah Smith,Cloud Computing,4
+Noah Smith,DevOps Practices,2
+Noah Smith,Containerization,3
+Olivia Davis,Data Analysis,2
+Olivia Davis,Machine Learning,2
+Olivia Davis,Time Series Analysis,1
+Olivia Davis,Cloud Computing,2
+Olivia Davis,Infrastructure as Code,3
+Olivia Davis,Containerization,5
+Michael Garcia,Data Analysis,1
+Michael Garcia,Statistical Analysis,1
+Michael Garcia,Data Visualization,2
+Michael Garcia,Cloud Computing,3
+Michael Garcia,DevOps Practices,4
+Michael Garcia,Network Security,3
+Sophia Martinez,Data Analysis,3
+Sophia Martinez,Machine Learning,1
+Sophia Martinez,Predictive Analytics,2
+Sophia Martinez,Cloud Computing,2
+Sophia Martinez,DevOps Practices,1
+Sophia Martinez,Infrastructure as Code,1
+Sophia Martinez,Network Security,3
+Sophia Martinez,HTML & CSS,4
+Sophia Martinez,JavaScript,5
+Sophia Martinez,React.js,4
+Sophia Martinez,Node.js,3
+Sophia Martinez,RESTful APIs,4
+James Wilson,Data Analysis,1
+James Wilson,Data Visualization,1
+James Wilson,Introduction to Big Data,2
+James Wilson,Cloud Computing,1
+James Wilson,Infrastructure as Code,2
+James Wilson,Containerization,1
+James Wilson,HTML & CSS,5
+James Wilson,JavaScript,4
+James Wilson,React.js,4
+James Wilson,Node.js,2
+James Wilson,RESTful APIs,5
+Ava Rodriguez,Data Analysis,2
+Ava Rodriguez,Machine Learning,3
+Ava Rodriguez,Statistical Analysis,1
+Ava Rodriguez,Cloud Computing,2
+Ava Rodriguez,DevOps Practices,2
+Ava Rodriguez,Network Security,1
+Ava Rodriguez,HTML & CSS,3
+Ava Rodriguez,JavaScript,2
+Ava Rodriguez,Node.js,4
+Ava Rodriguez,RESTful APIs,3
+Benjamin Taylor,Data Analysis,1
+Benjamin Taylor,Data Visualization,2
+Benjamin Taylor,Time Series Analysis,2
+Benjamin Taylor,Cloud Computing,3
+Benjamin Taylor,DevOps Practices,2
+Benjamin Taylor,Containerization,2
+Benjamin Taylor,HTML & CSS,4
+Benjamin Taylor,JavaScript,3
+Benjamin Taylor,React.js,2
+Benjamin Taylor,Node.js,3
+Chloe Anderson,Data Analysis,2
+Chloe Anderson,Machine Learning,2
+Chloe Anderson,Data Visualization,1
+Chloe Anderson,Cloud Computing,1
+Chloe Anderson,Infrastructure as Code,1
+Chloe Anderson,Network Security,1
+Chloe Anderson,HTML & CSS,2
+Chloe Anderson,JavaScript,2
+Chloe Anderson,React.js,4
+Chloe Anderson,Node.js,5
+Chloe Anderson,RESTful APIs,3
+Daniel Thomas,Data Analysis,3
+Daniel Thomas,Machine Learning,1
+Daniel Thomas,Data Visualization,2
+Daniel Thomas,Cloud Computing,2
+Daniel Thomas,DevOps Practices,1
+Daniel Thomas,HTML & CSS,4
+Daniel Thomas,JavaScript,5
+Daniel Thomas,React.js,3
+Daniel Thomas,Node.js,4
+Daniel Thomas,RESTful APIs,2
+Grace Jackson,Data Analysis,2
+Grace Jackson,Statistical Analysis,1
+Grace Jackson,Data Visualization,3
+Grace Jackson,HTML & CSS,3
+Grace Jackson,JavaScript,4
+Grace Jackson,React.js,5
+Grace Jackson,Node.js,2
+Grace Jackson,Cloud Computing,3
+Grace Jackson,Infrastructure as Code,2
+Hannah White,Data Analysis,1
+Hannah White,Data Visualization,2
+Hannah White,HTML & CSS,4
+Hannah White,JavaScript,3
+Hannah White,React.js,2
+Hannah White,Node.js,3
+Hannah White,RESTful APIs,1
+Hannah White,Cloud Computing,1
+Hannah White,Containerization,1
+Isabella Lewis,Data Analysis,2
+Isabella Lewis,Machine Learning,2
+Isabella Lewis,HTML & CSS,5
+Isabella Lewis,JavaScript,4
+Isabella Lewis,React.js,3
+Isabella Lewis,Node.js,2
+Isabella Lewis,Cloud Computing,2
+Isabella Lewis,DevOps Practices,1
+Jack Walker,Data Analysis,1
+Jack Walker,Data Visualization,1
+Jack Walker,HTML & CSS,4
+Jack Walker,JavaScript,3
+Jack Walker,React.js,4
+Jack Walker,Node.js,1
+Jack Walker,RESTful APIs,3
+Jack Walker,Cloud Computing,2
+Jack Walker,Network Security,2
+Liam Hall,Data Analysis,2
+Liam Hall,Machine Learning,2
+Liam Hall,Statistical Analysis,2
+Liam Hall,HTML & CSS,2
+Liam Hall,JavaScript,1
+Liam Hall,React.js,2
+Liam Hall,Node.js,3
+Liam Hall,Cloud Computing,1
+Liam Hall,DevOps Practices,2
+Liam Hall,Containerization,1
+Mia King,Data Analysis,3
+Mia King,Statistical Analysis,1
+Mia King,HTML & CSS,3
+Mia King,JavaScript,4
+Mia King,React.js,5
+Mia King,Node.js,4
+Mia King,Cloud Computing,2
+Mia King,Infrastructure as Code,1
+Oliver Wright,Data Analysis,2
+Oliver Wright,Data Visualization,2
+Oliver Wright,HTML & CSS,4
+Oliver Wright,JavaScript,3
+Oliver Wright,React.js,2
+Oliver Wright,Node.js,3
+Oliver Wright,Cloud Computing,1
+Oliver Wright,Network Security,2
+Penny Scott,Data Analysis,1
+Penny Scott,Data Visualization,1
+Penny Scott,HTML & CSS,5
+Penny Scott,JavaScript,4
+Penny Scott,React.js,3
+Penny Scott,Cloud Computing,2
+Penny Scott,Infrastructure as Code,1
+Quentin Green,Data Analysis,2
+Quentin Green,Machine Learning,1
+Quentin Green,HTML & CSS,4
+Quentin Green,JavaScript,5
+Quentin Green,Node.js,2
+Quentin Green,Cloud Computing,1
+Quentin Green,DevOps Practices,1

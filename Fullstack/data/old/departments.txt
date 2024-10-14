@@ -1,0 +1,25 @@
+empID,Tribe,Tribe Head,From,To,Active Status,Created At
+1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p,Data Science,emma.wilson,2023-01-15,2024-01-15,Inactive,2023-10-01 12:00:00
+1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6q,Full Stack,olivia.brown,2024-01-15,2030-01-15,Active,2023-10-01 12:00:00
+2a3b4c5d-6e7f-8g9h-0i1j-2k3l4m5n6o7r,Data Science,Jane Smith,6/1/2023,12/31/9999,Active,6/1/2023 9:00
+3b4c5d6e-7f8g-9h0i-1j2k-3l4m5n6o7p8t,TechOps,Olivia Brown,5/1/2018,12/31/9999,Active,5/1/2018 10:00
+4c5d6e7f-8g9h-0i1j-2k3l-4m5n6o7p8q9v,Solutions Consultant,—,3/1/2020,5/31/2022,Terminated,3/1/2020 11:00
+5d6e7f8g-9h0i-1j2k-3l4m-5n6o7p8q9r0w,TechOps,Olivia Brown,4/20/2016,12/31/9999,Active,4/20/2016 14:00
+6e7f8g9h-0i1j-2k3l-4m5n-6o7p8q9r0s1x,Data Science,Jane Smith,8/15/2023,12/31/9999,Active,8/15/2023 16:00
+7f8g9h0i-1j2k-3l4m-5n6o-7p8q9r0s1t2y,Data Science,Jane Smith,1/10/2024,12/31/9999,Active,1/10/2024 8:00
+8g9h0i1j-2k3l-4m5n-6o7p-8q9r0s1t2u3v,TechOps,Olivia Brown,3/20/2023,12/31/9999,Active,3/20/2023 9:30
+9h0i1j2k-3l4m-5n6o-7p8q-9r0s1t2u3v4w,TechOps,Olivia Brown,2/1/2024,12/31/9999,Active,2/1/2024 11:00
+0i1j2k3l-4m5n-6o7p-8q9r-0s1t2u3v4w5x,Full Stack,Emma Wilson,5/15/2021,12/31/9999,Active,5/15/2021 12:00
+1j2k3l4m-5n6o-7p8q-9r0s-1t2u3v4w5x6y,Full Stack,Emma Wilson,4/20/2022,12/31/9999,Active,4/20/2022 10:30
+2k3l4m5n-6o7p-8q9r-0s1t-2u3v4w5x6y7z,Data Science,Jane Smith,6/1/2023,12/31/9999,Active,6/1/2023 9:00
+3l4m5n6o-7p8q-9r0s-1t2u-3v4w5x6y7z8a,Data Science,Jane Smith,7/1/2023,12/31/9999,Active,7/1/2023 8:00
+4m5n6o7p-8q9r-0s1t-2u3v-4w5x6y7z8a9b,TechOps,Olivia Brown,5/1/2023,12/31/9999,Active,5/1/2023 9:00
+5n6o7p8q-9r0s-1t2u-3v4w-5x6y7z8a9b0c,Full Stack,Emma Wilson,1/15/2024,12/31/9999,Active,1/15/2024 10:00
+6o7p8q9r-0s1t-2u3v-4w5x-6y7z8a9b0c1d,Data Science,Jane Smith,3/1/2024,12/31/9999,Active,3/1/2024 11:00
+7p8q9r0s-1t2u-3v4w-5x6y-7z8a9b0c1d2e,TechOps,Olivia Brown,8/1/2024,12/31/9999,Active,8/1/2024 10:00
+8q9r0s1t-2u3v-4w5x-6y7z-8a9b0c1d2e3f,Full Stack,Emma Wilson,4/1/2024,12/31/9999,Active,4/1/2024 12:00
+9r0s1t2u-3v4w-5x6y-7z8a-9b0c1d2e3f4g,Data Science,Jane Smith,12/1/2024,12/31/9999,Active,12/1/2024 10:00
+0s1t2u3v-4w5x-6y7z-8a9b-0c1d2e3f4g5h,TechOps,Olivia Brown,11/1/2024,12/31/9999,Active,11/1/2024 11:00
+1t2u3v4w-5x6y-7z8a-9b0c-1d2e3f4g5h6i,Full Stack,Emma Wilson,9/1/2024,12/31/9999,Active,9/1/2024 9:00
+2u3v4w5x-6y7z-8a9b-0c1d-2e3f4g5h6i7j,Data Science,Jane Smith,10/15/2024,12/31/9999,Active,10/15/2024 8:00
+3v4w5x6y-7z8a-9b0c-1d2e-3f4g5h6i7j8k,TechOps,Olivia Brown,12/15/2024,12/31/9999,Active,12/15/2024 11:00

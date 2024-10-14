@@ -1,0 +1,51 @@
+skillid,skillname,category
+1,Data Analysis,Data Science
+2,Machine Learning,Data Science
+3,Statistical Analysis,Data Science
+4,Data Visualization,Data Science
+5,Deep Learning,Data Science
+6,Data Science Capstone Project,Data Science
+7,Advanced Data Analysis Techniques,Data Science
+8,Introduction to Big Data,Data Science
+9,Data Ethics and Privacy,Data Science
+10,Time Series Analysis,Data Science
+11,Data Mining,Data Science
+12,Predictive Analytics,Data Science
+13,Natural Language Processing,Data Science
+14,Data Wrangling,Data Science
+15,Feature Engineering,Data Science
+16,Cloud Computing,TechOps
+17,DevOps Practices,TechOps
+18,Infrastructure as Code,TechOps
+19,Network Security,TechOps
+20,Containerization,TechOps
+21,CI/CD Pipeline Implementation,TechOps
+22,Monitoring and Logging in Cloud,TechOps
+23,Agile Project Management,TechOps
+24,Advanced Cloud Security,TechOps
+25,Serverless Architecture,TechOps
+26,Microservices Architecture,TechOps
+27,Load Balancing,TechOps
+28,Virtualization Technologies,TechOps
+29,Site Reliability Engineering,TechOps
+30,Disaster Recovery Planning,TechOps
+31,HTML & CSS,Full Stack
+32,JavaScript,Full Stack
+33,React.js,Full Stack
+34,Node.js,Full Stack
+35,RESTful APIs,Full Stack
+36,Responsive Web Design,Full Stack
+37,Database Management Systems,Full Stack
+38,APIs and Microservices,Full Stack
+39,Software Testing,Full Stack
+40,Full Stack Development,Full Stack
+41,TypeScript,Full Stack
+42,Angular,Full Stack
+43,Vue.js,Full Stack
+44,Express.js,Full Stack
+45,GraphQL,Full Stack
+46,Web Accessibility,Full Stack
+47,DevOps for Developers,Full Stack
+48,Performance Optimization,Full Stack
+49,Deployment Strategies,Full Stack
+50,Mobile Development,Full Stack

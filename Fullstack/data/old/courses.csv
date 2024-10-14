@@ -1,0 +1,31 @@
+courseID,courseName,duration
+1,Data Science Foundations,12 weeks
+2,Machine Learning Basics,10 weeks
+3,Deep Learning Specialization,16 weeks
+4,Data Analysis with Python,8 weeks
+5,Tech Ops Fundamentals,10 weeks
+6,Cloud Infrastructure Management,14 weeks
+7,System Administration Essentials,12 weeks
+8,Full Stack Web Development,16 weeks
+9,React and Node.js,10 weeks
+10,Database Management Systems,8 weeks
+11,Statistical Methods for Data Science,10 weeks
+12,Data Visualization with Tableau,6 weeks
+13,Artificial Intelligence Essentials,14 weeks
+14,Big Data Technologies,16 weeks
+15,DevOps Practices and Tools,12 weeks
+16,Agile Project Management for Tech,8 weeks
+17,Microservices Architecture,14 weeks
+18,Front-End Development with Angular,10 weeks
+19,Mobile App Development,12 weeks
+20,Cloud Security Fundamentals,8 weeks
+21,Data Mining Techniques,10 weeks
+22,Advanced SQL for Data Science,8 weeks
+23,Building RESTful APIs,12 weeks
+24,Ethical Hacking for Tech Ops,10 weeks
+25,Data Engineering Basics,14 weeks
+26,UI/UX Design Principles,8 weeks
+27,Introduction to Blockchain Technology,12 weeks
+28,Serverless Computing with AWS,10 weeks
+29,Internet of Things (IoT) Fundamentals,14 weeks
+30,GraphQL for Full Stack Development,10 weeks

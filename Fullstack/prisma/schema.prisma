@@ -1,0 +1,104 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("PGADMIN_DATABASE_URL")
+}
+
+model assessments {
+  empid            Int?
+  courseid         Int?
+  skillid          Int?
+  assessmentid     Int        @id @default(autoincrement())
+  assessment_score Int?
+  max_score        Int?
+  due_date         DateTime?  @db.Timestamp(6)
+  test_taken       DateTime?  @db.Timestamp(6)
+  test_completed   DateTime?  @db.Timestamp(6)
+  courses          courses?   @relation(fields: [courseid], references: [courseid], onDelete: NoAction, onUpdate: NoAction)
+  employees        employees? @relation(fields: [empid], references: [empid], onDelete: NoAction, onUpdate: NoAction)
+  skills           skills?    @relation(fields: [skillid], references: [skillid], onDelete: NoAction, onUpdate: NoAction)
+}
+
+model courses {
+  courseid               Int                      @id @default(autoincrement())
+  coursename             String?                  @db.VarChar(255)  
+  duration               String?                  @db.VarChar(50)   
+  assessments            assessments[]
+  employeecertifications employeecertifications[]
+}
+
+model employeecertifications {
+  empid          Int
+  courseid       Int
+  startdate      DateTime? @db.Timestamp(6)
+  completiondate DateTime? @db.Timestamp(6)
+  courses        courses   @relation(fields: [courseid], references: [courseid], onDelete: NoAction, onUpdate: NoAction)
+  employees      employees @relation(fields: [empid], references: [empid], onDelete: NoAction, onUpdate: NoAction)
+
+  @@id([empid, courseid])
+}
+
+model employeedept {
+  empid        Int       @id
+  tribe        String?   @db.VarChar(255)
+  tribehead    String?   @db.VarChar(255)
+  from         DateTime? @db.Timestamp(6)
+  to           DateTime? @db.Timestamp(6)
+  activestatus String?   @db.VarChar(50)
+  created_at   DateTime? @default(now()) @db.Timestamp(6)
+  employees    employees @relation(fields: [empid], references: [empid], onDelete: NoAction, onUpdate: NoAction)
+}
+
+model employees {
+  empid                    Int                        @id @default(autoincrement())
+  empname                  String?                    @db.VarChar(255)
+  designation              String?                    @db.VarChar(255)
+  experience               String?                    @db.VarChar(255)
+  birth_date               DateTime?                  @db.Date      
+  hire_date                DateTime?                  @db.Date      
+  salary                   Int?
+  gender                   String?                    @db.VarChar(50)
+  activestatus             String?                    @db.VarChar(50)
+  created_at               DateTime?                  @default(now()) @db.Timestamp(6)
+  assessments              assessments[]
+  employeecertifications   employeecertifications[]
+  employeedept             employeedept?
+  employeeskillproficiency employeeskillproficiency[]
+  users                    users?
+}
+
+model employeeskillproficiency {
+  empid       Int
+  skillid     Int
+  proficiency Int?
+  employees   employees @relation(fields: [empid], references: [empid], onDelete: NoAction, onUpdate: NoAction)
+  skill       skills    @relation(fields: [skillid], references: [skillid])
+  @@id([empid, skillid])
+}
+
+model skills {
+  skillid       Int           @id @default(autoincrement())
+  skillname     String?       @db.VarChar(255)
+  category      String?       @db.VarChar(255)
+  assessments   assessments[]
+  proficiencies employeeskillproficiency[]
+}
+
+model users {
+  empid      Int       @id
+  username   String    @db.VarChar(255)
+  email      String    @db.VarChar(255) @unique
+  password   String    @db.VarChar(255)
+  role       String?   @db.VarChar(50)
+  created_at DateTime? @default(now()) @db.Timestamp(6)
+  employees  employees @relation(fields: [empid], references: [empid], onDelete: NoAction, onUpdate: NoAction)
+}

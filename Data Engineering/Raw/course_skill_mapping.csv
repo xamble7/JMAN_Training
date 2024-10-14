@@ -1,0 +1,79 @@
+courseid,skillid
+1,1  -- Introduction to Data Science -> Data Analysis
+1,2  -- Introduction to Data Science -> Machine Learning
+1,4  -- Introduction to Data Science -> Data Visualization
+1,6  -- Introduction to Data Science -> Data Science Capstone Project
+1,8  -- Introduction to Data Science -> Introduction to Big Data
+1,11 -- Introduction to Data Science -> Data Mining
+
+2,2  -- Machine Learning Basics -> Machine Learning
+2,5  -- Machine Learning Basics -> Deep Learning
+2,13 -- Machine Learning Basics -> Natural Language Processing
+2,12 -- Machine Learning Basics -> Predictive Analytics
+
+3,2  -- Deep Learning with TensorFlow -> Machine Learning
+3,5  -- Deep Learning with TensorFlow -> Deep Learning
+3,4  -- Deep Learning with TensorFlow -> Data Visualization
+3,14 -- Deep Learning with TensorFlow -> Data Wrangling
+
+4,3  -- Statistical Analysis with R -> Statistical Analysis
+4,11 -- Statistical Analysis with R -> Data Mining
+4,12 -- Statistical Analysis with R -> Predictive Analytics
+4,9  -- Statistical Analysis with R -> Data Ethics and Privacy
+
+5,1  -- Data Visualization with Python -> Data Analysis
+5,4  -- Data Visualization with Python -> Data Visualization
+5,8  -- Data Visualization with Python -> Introduction to Big Data
+5,14 -- Data Visualization with Python -> Data Wrangling
+
+6,12 -- Data Science Capstone Project -> Predictive Analytics
+6,9  -- Data Science Capstone Project -> Data Ethics and Privacy
+6,10 -- Data Science Capstone Project -> Time Series Analysis
+
+7,14 -- Advanced Data Analysis Techniques -> Data Wrangling
+7,5  -- Advanced Data Analysis Techniques -> Deep Learning
+7,1  -- Advanced Data Analysis Techniques -> Data Analysis
+
+8,8  -- Introduction to Big Data -> Introduction to Big Data
+8,10 -- Introduction to Big Data -> Time Series Analysis
+
+9,9  -- Data Ethics and Privacy -> Data Ethics and Privacy
+9,1  -- Data Ethics and Privacy -> Data Analysis
+
+10,10 -- Time Series Analysis -> Time Series Analysis
+10,7  -- Time Series Analysis -> Advanced Data Analysis Techniques
+
+11,11 -- Cloud Computing Essentials -> Cloud Computing
+11,16 -- Cloud Computing Essentials -> CI/CD Pipeline Implementation
+12,17 -- DevOps for Beginners -> DevOps Practices
+12,16 -- DevOps for Beginners -> CI/CD Pipeline Implementation
+13,13 -- Implementing Infrastructure as Code -> Infrastructure as Code
+13,18 -- Implementing Infrastructure as Code -> Agile Project Management
+14,14 -- Network Security Fundamentals -> Network Security
+14,19 -- Network Security Fundamentals -> Advanced Cloud Security
+15,15 -- Containerization with Docker -> Containerization
+15,22 -- Containerization with Docker -> Monitoring and Logging in Cloud
+16,22 -- CI/CD Pipeline Implementation -> Monitoring and Logging in Cloud
+17,26 -- Monitoring and Logging in Cloud -> Load Balancing
+18,18 -- Agile Project Management -> Agile Project Management
+19,19 -- Advanced Cloud Security -> Advanced Cloud Security
+20,20 -- Serverless Architecture -> Serverless Architecture
+
+21,21 -- Web Development Bootcamp -> HTML & CSS
+21,32 -- Web Development Bootcamp -> JavaScript
+21,31 -- Web Development Bootcamp -> Full Stack Development
+21,23 -- Web Development Bootcamp -> React.js
+
+22,22 -- JavaScript: The Good Parts -> JavaScript
+23,23 -- Building Web Apps with React -> React.js
+23,24 -- Building Web Apps with React -> Node.js
+24,24 -- Node.js and Express for Beginners -> Node.js
+24,35 -- Node.js and Express for Beginners -> RESTful APIs
+25,35 -- Full Stack Project -> RESTful APIs
+25,39 -- Full Stack Project -> Software Testing
+26,31 -- HTML & CSS Fundamentals -> HTML & CSS
+27,36 -- Responsive Web Design -> Responsive Web Design
+28,37 -- Database Management Systems -> Database Management Systems
+29,38 -- APIs and Microservices -> APIs and Microservices
+30,39 -- Software Testing Fundamentals -> Software Testing
+30,40 -- Software Testing Fundamentals -> Full Stack Development

@@ -1,0 +1,151 @@
+courseID,courseName,duration
+1,Introduction to Programming,10 weeks
+2,Data Structures and Algorithms,8 weeks
+3,Web Development Fundamentals,12 weeks
+4,Database Management Systems,6 weeks
+5,Software Engineering Principles,14 weeks
+6,Mobile App Development,10 weeks
+7,Machine Learning Basics,16 weeks
+8,Cloud Computing Concepts,8 weeks
+9,Cybersecurity Essentials,8 weeks
+10,DevOps Practices,6 weeks
+11,User Experience Design,10 weeks
+12,Digital Marketing Strategies,12 weeks
+13,Game Development with Unity,14 weeks
+14,Network Fundamentals,8 weeks
+15,Artificial Intelligence Overview,10 weeks
+16,Blockchain Technology,6 weeks
+17,Agile Project Management,8 weeks
+18,Responsive Web Design,10 weeks
+19,Big Data Analytics,12 weeks
+20,Programming with Python,10 weeks
+21,Introduction to HTML and CSS,6 weeks
+22,JavaScript for Beginners,8 weeks
+23,Data Visualization Techniques,10 weeks
+24,Computer Graphics Fundamentals,12 weeks
+25,Ethical Hacking Basics,8 weeks
+26,Software Testing and Quality Assurance,10 weeks
+27,Digital Photography Techniques,6 weeks
+28,SEO Fundamentals,8 weeks
+29,Project Management Basics,10 weeks
+30,Financial Accounting Principles,12 weeks
+31,Advanced Python Programming,12 weeks
+32,Introduction to R for Data Science,10 weeks
+33,Artificial Intelligence in Healthcare,14 weeks
+34,Augmented Reality Development,16 weeks
+35,Introduction to Cyber Law,8 weeks
+36,Mobile Game Development,12 weeks
+37,Introduction to SQL,6 weeks
+38,Social Media Marketing Strategies,10 weeks
+39,Full-Stack Development Bootcamp,14 weeks
+40,Data Science with R,16 weeks
+41,Cloud Architecture Design,10 weeks
+42,Creative Writing Workshop,8 weeks
+43,Introduction to Graphic Design,12 weeks
+44,Project Management with Agile,10 weeks
+45,HTML5 and CSS3 Mastery,8 weeks
+46,Quantitative Analysis in Finance,14 weeks
+47,Public Speaking and Communication Skills,6 weeks
+48,Fundamentals of Robotics,12 weeks
+49,Photography for Beginners,8 weeks
+50,Mobile User Interface Design,10 weeks
+51,Introduction to Internet of Things,10 weeks
+52,Data Ethics and Privacy,6 weeks
+53,Introduction to Video Editing,12 weeks
+54,Principles of Marketing,8 weeks
+55,Advanced Excel for Data Analysis,10 weeks
+56,Principles of Animation,12 weeks
+57,Introduction to Nonprofit Management,8 weeks
+58,Web Application Security,10 weeks
+59,Introduction to Financial Modeling,14 weeks
+60,Human-Computer Interaction,12 weeks
+61,Advanced Data Structures,10 weeks
+62,Ethical AI Development,12 weeks
+63,Introduction to DevSecOps,8 weeks
+64,Design Thinking Workshop,10 weeks
+65,Data Mining Techniques,14 weeks
+66,Game Design Principles,16 weeks
+67,Introduction to Virtual Reality,12 weeks
+68,Content Writing and SEO,8 weeks
+69,Fundamentals of Blockchain,10 weeks
+70,Introduction to Data Analytics,10 weeks
+71,Computer Vision Basics,12 weeks
+72,Smart Home Technologies,6 weeks
+73,Introduction to Programming with Java,10 weeks
+74,Introduction to eCommerce,8 weeks
+75,Advanced Web Development,12 weeks
+76,Remote Team Management,10 weeks
+77,Digital Audio Production,8 weeks
+78,Statistics for Data Science,10 weeks
+79,Introduction to Supply Chain Management,14 weeks
+80,Creative Coding with Processing,12 weeks
+81,Introduction to Augmented Reality,10 weeks
+82,Research Methods in Social Science,8 weeks
+83,Introduction to Web APIs,12 weeks
+84,Digital Illustration Techniques,10 weeks
+85,Real Estate Principles,6 weeks
+86,Financial Risk Management,14 weeks
+87,Introduction to Systems Thinking,8 weeks
+88,Marketing Analytics,10 weeks
+89,Video Game Storytelling,12 weeks
+90,Fundamentals of Music Theory,10 weeks
+91,Introduction to Quantum Computing,12 weeks
+92,Responsive Mobile Web Design,10 weeks
+93,Digital Transformation Strategies,8 weeks
+94,Principles of User Interface Design,10 weeks
+95,Data Protection Regulations,6 weeks
+96,Artificial Intelligence for Business,14 weeks
+97,Introduction to Nonlinear Programming,10 weeks
+98,Content Management Systems,8 weeks
+99,Introduction to Voice User Interface Design,12 weeks
+100,Film Production Basics,10 weeks
+101,Machine Learning for Finance,14 weeks
+102,Advanced Marketing Techniques,10 weeks
+103,Introduction to Game Theory,8 weeks
+104,Environmental Science and Sustainability,12 weeks
+105,Fundamentals of 3D Modeling,10 weeks
+106,Advanced SQL Queries,8 weeks
+107,Digital Ethics and Society,10 weeks
+108,Technical Writing Essentials,6 weeks
+109,Social Psychology for Marketing,12 weeks
+110,Advanced Networking Concepts,14 weeks
+111,Introduction to Chatbot Development,10 weeks
+112,Principles of Digital Communication,8 weeks
+113,Introduction to Ethical Hacking,12 weeks
+114,Data Warehousing Fundamentals,10 weeks
+115,Negotiation Skills for Professionals,8 weeks
+116,Introduction to Robotics Process Automation,10 weeks
+117,Creative Advertising Strategies,12 weeks
+118,Introduction to Cloud Security,10 weeks
+119,Agile Software Development,8 weeks
+120,Blockchain in Supply Chain Management,14 weeks
+121,Introduction to Digital Animation,10 weeks
+122,Data Science Capstone Project,14 weeks
+123,User Research Methods,8 weeks
+124,Smart Cities and Urban Technology,12 weeks
+125,Fundamentals of Cybersecurity,10 weeks
+126,Introduction to Neural Networks,12 weeks
+127,Personal Branding for Professionals,8 weeks
+128,Technical Project Management,10 weeks
+129,Introduction to Cloud Computing,6 weeks
+130,Game Development with Unreal Engine,14 weeks
+131,Data Visualization with Tableau,10 weeks
+132,Introduction to Mixed Reality,12 weeks
+133,Artificial Intelligence in Marketing,10 weeks
+134,Introduction to Bioinformatics,8 weeks
+135,Mobile Web App Development,10 weeks
+136,Introduction to Sports Analytics,12 weeks
+137,Digital Forensics,10 weeks
+138,Introduction to Financial Technology,8 weeks
+139,Building Responsive Websites,12 weeks
+140,Advanced Public Relations Strategies,10 weeks
+141,Visual Storytelling in Digital Media,8 weeks
+142,Python for Data Science,14 weeks
+143,Global Business Strategies,10 weeks
+144,Introduction to Data Ethics,6 weeks
+145,Fundamentals of E-Learning,10 weeks
+146,Introduction to Digital Marketing Analytics,12 weeks
+147,User Interface Prototyping,10 weeks
+148,Introduction to Digital Privacy,8 weeks
+149,Voice Technology and Its Applications,14 weeks
+150,Introduction to Human Resource Management,10 weeks

@@ -1,0 +1,31 @@
+CourseID,CourseName,CourseDuration,Description
+1,Introduction to Data Science,4,Learn the basics of data science
+2,Machine Learning Basics,6,Understand the fundamentals of machine learning algorithms and their applications.
+3,Deep Learning with TensorFlow,8,A deep dive into deep learning concepts using TensorFlow.
+4,Statistical Analysis with R,5,Learn statistical methods and their applications in R programming.
+5,Data Visualization with Python,3,Visualize data effectively using Python libraries like Matplotlib and Seaborn.
+6,Data Science Capstone Project,10,Integrate data science skills to complete a real-world project.
+7,Advanced Data Analysis Techniques,6,Explore advanced methods for data analysis in Python.
+8,Introduction to Big Data,4,Learn the concepts and tools used in Big Data technologies.
+9,Data Ethics and Privacy,3,Understand the ethical implications and privacy concerns in data science.
+10,Time Series Analysis,5,Learn to analyze and forecast time-dependent data.
+11,Cloud Computing Essentials,4,An introduction to cloud computing concepts and services.
+12,DevOps for Beginners,5,Understand the principles and practices of DevOps.
+13,Implementing Infrastructure as Code,6,Learn to automate infrastructure deployment with tools like Terraform.
+14,Network Security Fundamentals,4,Overview of network security principles and practices.
+15,Containerization with Docker,3,Learn how to use Docker to containerize applications.
+16,CI/CD Pipeline Implementation,5,Understand how to implement CI/CD pipelines in your projects.
+17,Monitoring and Logging in Cloud,4,Learn how to monitor and log cloud resources effectively.
+18,Agile Project Management,3,Explore the principles and practices of Agile project management.
+19,Advanced Cloud Security,6,Delve deeper into security practices for cloud environments.
+20,Serverless Architecture,5,Learn to build applications using serverless architecture.
+21,Web Development Bootcamp,12,Comprehensive course covering both front-end and back-end development.
+22,JavaScript: The Good Parts,3,Deep understanding of JavaScript and its best practices.
+23,Building Web Apps with React,5,Create dynamic web applications using React.js.
+24,Node.js and Express for Beginners,4,Learn to build RESTful APIs with Node.js and Express.
+25,Full Stack Project,6,Build a complete web application using full stack technologies.
+26,HTML & CSS Fundamentals,4,Learn the foundational skills of web design with HTML and CSS.
+27,Responsive Web Design,3,Create responsive web designs that work on multiple devices.
+28,Database Management Systems,5,Understand the principles of database management and SQL.
+29,APIs and Microservices,4,Explore the design and development of APIs and microservices.
+30,Software Testing Fundamentals,5,Learn the basics of software testing methodologies and practices.

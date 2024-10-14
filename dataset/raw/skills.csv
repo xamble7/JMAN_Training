@@ -1,0 +1,151 @@
+skillID,skillName,category
+1,Python Programming,Programming Languages
+2,JavaScript,Programming Languages
+3,Project Management,Management Skills
+4,Data Analysis,Data Skills
+5,Machine Learning,Data Science
+6,Communication Skills,Soft Skills
+7,HTML,Web Development
+8,CSS,Web Development
+9,SQL,Database Management
+10,React,Web Development
+11,Agile Methodology,Project Management
+12,Digital Marketing,Marketing Skills
+13,Public Speaking,Soft Skills
+14,Java,Programming Languages
+15,R,Data Science
+16,Cloud Computing,Technical Skills
+17,DevOps,Technical Skills
+18,UI/UX Design,Design Skills
+19,Git,Version Control
+20,Data Visualization,Data Skills
+21,Leadership Skills,Management Skills
+22,Testing and QA,Technical Skills
+23,Microservices Architecture,Technical Skills
+24,PHP,Programming Languages
+25,Networking,Technical Skills
+26,Content Writing,Creative Skills
+27,Time Management,Soft Skills
+28,Data Warehousing,Data Skills
+29,Responsive Web Design,Web Development
+30,Business Analysis,Management Skills
+31,Swift,Programming Languages
+32,Kotlin,Programming Languages
+33,Data Mining,Data Science
+34,Ethical Hacking,Cybersecurity
+35,Machine Learning,Data Science
+36,Artificial Intelligence,Data Science
+37,Sales Strategy,Sales Skills
+38,Negotiation Skills,Soft Skills
+39,Presentation Skills,Soft Skills
+40,Customer Service,Soft Skills
+41,Search Engine Optimization,Marketing Skills
+42,Mobile App Development,Web Development
+43,Blockchain Technology,Technical Skills
+44,Data Engineering,Data Skills
+45,Content Management Systems,Technical Skills
+46,Statistics,Data Skills
+47,Web Scraping,Technical Skills
+48,API Development,Technical Skills
+49,Performance Testing,Technical Skills
+50,Brand Management,Marketing Skills
+51,Remote Collaboration,Soft Skills
+52,Video Editing,Creative Skills
+53,Graphic Design,Creative Skills
+54,Financial Analysis,Management Skills
+55,Inventory Management,Management Skills
+56,Foreign Language Proficiency,Soft Skills
+57,Social Media Management,Marketing Skills
+58,Technical Writing,Creative Skills
+59,Virtualization,Technical Skills
+60,User Research,Design Skills
+61,Data Modeling,Data Skills
+62,Cloud Security,Cybersecurity
+63,Public Relations,Marketing Skills
+64,Digital Analytics,Data Skills
+65,User Interface Design,Design Skills
+66,Game Development,Creative Skills
+67,Technical Support,Technical Skills
+68,Software Development Life Cycle,Technical Skills
+69,Negotiation Tactics,Soft Skills
+70,Change Management,Management Skills
+71,Content Strategy,Marketing Skills
+72,Augmented Reality,Technical Skills
+73,Virtual Reality,Technical Skills
+74,Web Development Fundamentals,Web Development
+75,Influencer Marketing,Marketing Skills
+76,Quality Assurance,Technical Skills
+77,Networking Protocols,Technical Skills
+78,Research Methodology,Data Skills
+79,Creative Problem Solving,Soft Skills
+80,Cloud Infrastructure,Technical Skills
+81,Machine Learning Algorithms,Data Science
+82,Statistical Analysis,Data Skills
+83,Lead Generation,Sales Skills
+84,Email Marketing,Marketing Skills
+85,Product Management,Management Skills
+86,Systems Analysis,Technical Skills
+87,Performance Management,Management Skills
+88,User Experience Testing,Design Skills
+89,Data Governance,Data Skills
+90,Behavioral Analysis,Data Skills
+91,Search Engine Marketing,Marketing Skills
+92,User Experience Design,Design Skills
+93,Data Security,Cybersecurity
+94,Agile Project Management,Management Skills
+95,Process Improvement,Management Skills
+96,Financial Modeling,Management Skills
+97,Digital Content Creation,Creative Skills
+98,Social Media Advertising,Marketing Skills
+99,Technical Analysis,Data Skills
+100,Embedded Systems,Technical Skills
+101,CRM Software,Technical Skills
+102,Data Integration,Data Skills
+103,Information Architecture,Technical Skills
+104,Mobile User Experience,Design Skills
+105,Statistical Software,Data Skills
+106,Salesforce,Technical Skills
+107,Remote Work Tools,Soft Skills
+108,Incident Management,Cybersecurity
+109,Behavioral Economics,Data Skills
+110,Visual Communication,Creative Skills
+111,Content Editing,Creative Skills
+112,Supply Chain Management,Management Skills
+113,Regulatory Compliance,Technical Skills
+114,Technical Troubleshooting,Technical Skills
+115,Ethics in Data Science,Data Skills
+116,Network Security,Cybersecurity
+117,Prototype Development,Design Skills
+118,API Integration,Technical Skills
+119,Software Testing,Technical Skills
+120,Change Leadership,Management Skills
+121,Big Data Technologies,Data Skills
+122,Cloud Architecture,Technical Skills
+123,Software Documentation,Technical Skills
+124,Change Analytics,Data Skills
+125,Community Management,Marketing Skills
+126,Employee Engagement,Management Skills
+127,Remote Team Management,Management Skills
+128,Video Production,Creative Skills
+129,Photography,Creative Skills
+130,Public Policy Analysis,Data Skills
+131,Financial Reporting,Management Skills
+132,Product Marketing,Marketing Skills
+133,Health and Safety Compliance,Management Skills
+134,Data Pipeline Development,Data Skills
+135,IT Service Management,Technical Skills
+136,Customer Journey Mapping,Marketing Skills
+137,Content Distribution,Marketing Skills
+138,Network Administration,Technical Skills
+139,Sales Forecasting,Sales Skills
+140,Information Security Management,Cybersecurity
+141,Influencer Outreach,Marketing Skills
+142,App Store Optimization,Marketing Skills
+143,Human-Centered Design,Design Skills
+144,DevOps Practices,Technical Skills
+145,Ethics in AI,Data Skills
+146,Regulatory Affairs,Management Skills
+147,Prototyping,Design Skills
+148,Video Game Design,Creative Skills
+149,Quality Control,Technical Skills
+150,Supply Chain Optimization,Management Skills
