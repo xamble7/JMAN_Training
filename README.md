@@ -1,10 +1,23 @@
-JMAN Training Project
-===
-Abstract
+# JMAN Training Project
+
+## Overview
 The Employee Skill Assessment & Competency Tracking project is designed to help organizations monitor and enhance employee skills through a comprehensive system. This application tracks skills based on completed courses and assessments, enabling data-driven decision-making in employee development.
 
+## 📚 Table of Contents
+
+1. [Overview](#overview)
+2. [Project Information](#project-information)
+3. [Technologies Used](#technologies-used)
+4. [Installation](#-installation)
+5. [Folder Structure](#-folder-structure)
+6. [Features](#-features)
+7. [Usage](#usage)
+8. [References](#references)
+
+---
+
 ## Project Information
-- Title:  `Employee Skill Assessment & Competency Trackin`
+- Title:  `Employee Skill Assessment & Competency Tracking`
 - Authors:  `Rishabh Saklani`
 
 ---
@@ -89,7 +102,7 @@ The Employee Skill Assessment & Competency Tracking project is designed to help 
 
 ---
 
-🖥️ Usage
+## Usage
  - Access the admin dashboard to view overall employee skill metrics and progress.
  - Explore individual employee profiles to track skills and assessments.
  - Utilize reporting tools to analyze data and generate insights.
